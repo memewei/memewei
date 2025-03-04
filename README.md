@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @memewei
-- 👀 I’m interested in Machine Learning, Fullstack Development
-- 🌱 I’m currently learning to be a Frontend Developer
+- 👀 I’m learning frontend development 
 
 
 <!---
